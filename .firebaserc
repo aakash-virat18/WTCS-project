@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-search-1523c": {
+      "hosting": {
+        "travelgram": [
+          "github-search-1523c"
+        ]
+      }
+    }
+  }
+}
